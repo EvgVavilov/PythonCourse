@@ -1,0 +1,5 @@
+word = input("Введите словa")
+word = word.split(" ")
+word = "".join(word)
+print(word)
+print(type(word))
