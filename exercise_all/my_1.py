@@ -10,3 +10,6 @@ a = -1
 while a < 10 :
     print("hui")
     a = a + 1
+    
+    a = 4
+    
